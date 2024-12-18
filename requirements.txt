@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-jose
+passlib[bcrypt]
+joblib
+pandas
+PyJWT
